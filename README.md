@@ -12,7 +12,7 @@ page_type: sample
 urlFragment: azure-database-postgresql-labs
 ---
 
-# PostgreSQL + pgvector on Azure
+# PostgreSQL labs
 
 This repository makes it easy to deploy a PostgreSQL Flexible Server to Azure with the [pgvector](https://github.com/pgvector/pgvector) extension installed. The pgvector extension provides a vector similarity search engine for PostgreSQL, allowing you to perform similarity searches on your data using vector embeddings.
 
